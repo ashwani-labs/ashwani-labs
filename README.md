@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27C93F&width=435&lines=Java+%7C+Spring+Boot+Developer;React.js+Enthusiast;Building+Scalable+Apps!)](https://git.io/typing-svg)
 
+[![GitHub followers](https://img.shields.io/github/followers/ashwani-labs?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/ashwani-labs?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwani.k.sharma2001@gmail.com)
@@ -29,7 +30,7 @@ I enjoy working across the entire stack — designing RESTful APIs with Spring B
 - 🔭 Currently working on: **Your Latest Project**
 - 🌱 Learning: **AWS / System Design / Microservices**
 - 💬 Ask me about: **Java, Spring Boot, React.js, MySQL**
-- 📫 Reach me at: **your.email@gmail.com**
+- 📫 Reach me at: **ashwani.k.sharma2001@gmail.com**
 
 ---
 
@@ -67,6 +68,18 @@ I enjoy working across the entire stack — designing RESTful APIs with Spring B
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwani-labs&theme=tokyo-night&hide_border=true"/>
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashwani-labs&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwani-labs/ashwani-labs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwani-labs/ashwani-labs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashwani-labs/ashwani-labs/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashwani-labs&color=blueviolet&style=for-the-badge)
 
