@@ -11,7 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ashwani--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashwani-labs)
 [![Email](https://img.shields.io/badge/Email-ashwani.k.sharma2001-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwani.k.sharma2001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwani-sharma-815673231)
 
 </div>
 
@@ -88,6 +88,16 @@ I'm a **Full Stack Developer** who enjoys owning features end-to-end — from de
 </td>
 </tr>
 </table>
+
+---
+
+## 🏆 GitHub Achievements
+
+<a href="https://github.com/ashwani-labs?achievement=yolo&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Achievement"/>
+</a>
+
+*More badges loading… Pull Shark next!* 🦈
 
 ---
 
