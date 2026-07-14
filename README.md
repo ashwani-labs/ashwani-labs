@@ -129,7 +129,7 @@ I'm a **Full Stack Developer** who enjoys owning features end-to-end — from de
 
 <br/><br/>
 
-**Thanks for stopping by — let's build something great!** 🚀
+**Thanks for stopping by — let's build something great together!** 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashwani-labs&color=27C93F&style=flat-square)
 
