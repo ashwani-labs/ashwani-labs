@@ -96,8 +96,11 @@ I'm a **Full Stack Developer** who enjoys owning features end-to-end — from de
 <a href="https://github.com/ashwani-labs?achievement=yolo&tab=achievements">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Achievement"/>
 </a>
+<a href="https://github.com/ashwani-labs?achievement=pull-shark&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark Achievement"/>
+</a>
 
-*More badges loading… Pull Shark next!* 🦈
+*Earned: YOLO · Pull Shark — more badges on the way!*
 
 ---
 
