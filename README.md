@@ -32,7 +32,7 @@ public class Ashwani {
 
 I'm a **Full Stack Developer** who enjoys owning features end-to-end — from designing RESTful backends with **Spring Boot** to shipping responsive UIs with **React**.
 
-- 🔭 **Currently building:** [Pixel-Mart](https://github.com/ashwani-labs/Pixel-Mart) · [Trackify SaaS Platform](https://github.com/ashwani-labs/Trackify-Saas-Platform)
+- 🔭 **Currently building:** [TradeSphere](https://github.com/ashwani-labs/TradeSphere) · [Pixel-Mart](https://github.com/ashwani-labs/Pixel-Mart) · [Trackify SaaS Platform](https://github.com/ashwani-labs/Trackify-Saas-Platform)
 - 🌱 **Exploring:** System Design · AWS · Microservices patterns
 - 💬 **Ask me about:** Java, Spring Boot, React, MySQL, API design
 - 📫 **Reach me:** ashwani.k.sharma2001@gmail.com
@@ -43,8 +43,9 @@ I'm a **Full Stack Developer** who enjoys owning features end-to-end — from de
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**TradeSphere**](https://github.com/ashwani-labs/TradeSphere) | Multi-vendor marketplace with Stripe Connect Express — seller accounts, destination charges & platform fees | `Spring Boot` `React` `Stripe` |
 | [**Pixel-Mart**](https://github.com/ashwani-labs/Pixel-Mart) | Production-grade e-commerce platform with microservices architecture | `Spring Boot` `React` `Microservices` |
-| [**Trackify SaaS**](https://github.com/ashwani-labs/Trackify-Saas-Platform) | SaaS platform for tracking and managing workflows | `Spring Boot` `React` |
+| [**Trackify SaaS**](https://github.com/ashwani-labs/Trackify-Saas-Platform) | Multi-tenant SaaS for project & issue management with JWT auth | `Spring Boot` `React` `Microservices` |
 | [**Hotel Management MS**](https://github.com/ashwani-labs/Microservice_With-Eureka-Server-Hotel-Management) | Microservices hotel system with Eureka, API Gateway & service discovery | `Spring Boot` `Eureka` `Gateway` |
 | [**Employee Feedback**](https://github.com/ashwani-labs/Employee-Feedback-Project-Java-Spring-boot) | REST API system to collect, manage & analyze employee feedback | `Java` `Spring Boot` `MySQL` |
 | [**Log Monitor**](https://github.com/ashwani-labs/Realtime-log-Monitor-System) | Real-time log monitoring for debugging & system health | `JavaScript` `Node.js` |
@@ -93,14 +94,31 @@ I'm a **Full Stack Developer** who enjoys owning features end-to-end — from de
 
 ## 🏆 GitHub Achievements
 
-<a href="https://github.com/ashwani-labs?achievement=yolo&tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Achievement"/>
+<div align="center">
+
+<a href="https://github.com/ashwani-labs?tab=achievements&achievement=pull-shark">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="90" alt="Pull Shark Bronze"/>
 </a>
-<a href="https://github.com/ashwani-labs?achievement=pull-shark&tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark Achievement"/>
+&nbsp;&nbsp;
+<a href="https://github.com/ashwani-labs?tab=achievements&achievement=pair-extraordinaire">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="90" alt="Pair Extraordinaire Bronze"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ashwani-labs?tab=achievements&achievement=yolo">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/>
 </a>
 
-*Earned: YOLO · Pull Shark — more badges on the way!*
+<br/>
+
+| Badge | Tier | Unlocked by |
+| :--- | :--- | :--- |
+| **Pull Shark** | 🥉 Bronze | Merged pull requests |
+| **Pair Extraordinaire** | 🥉 Bronze | Co-authored commits in merged PRs |
+| **YOLO** | — | Merged a PR without code review |
+
+*Next targets: Quickdraw · Galaxy Brain · Starstruck · Pull Shark Silver*
+
+</div>
 
 ---
 
