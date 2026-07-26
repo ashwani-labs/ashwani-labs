@@ -2,15 +2,15 @@
 
 # Hi, I'm Ashwani Sharma 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=27C93F&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Production+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=27C93F&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Production+Apps)](https://git.io/typing-svg)
 
-**3+ years crafting clean APIs and user-friendly interfaces**  
+**Full-stack developer · 3+ years** building clean APIs and user-friendly UIs  
 📍 Delhi, India
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ashwani--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashwani-labs)
-[![Email](https://img.shields.io/badge/Email-ashwani.k.sharma2001-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwani.k.sharma2001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwani.k.sharma2001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwani-sharma-815673231)
 
 </div>
@@ -30,12 +30,12 @@ public class Ashwani {
 }
 ```
 
-I'm a **Full Stack Developer** who enjoys owning features end-to-end — from designing RESTful backends with **Spring Boot** to shipping responsive UIs with **React**.
+I own features end-to-end — designing **Spring Boot** backends, securing them with **JWT / Spring Security**, and shipping responsive UIs with **React**.
 
-- 🔭 **Currently building:** [Pixel-Mart](https://github.com/ashwani-labs/Pixel-Mart) · [Trackify SaaS Platform](https://github.com/ashwani-labs/Trackify-Saas-Platform)
+- 🔭 **Currently building:** [Trackify SaaS](https://github.com/ashwani-labs/Trackify-Saas-Platform) · [Pixel-Mart](https://github.com/ashwani-labs/Pixel-Mart)
 - 🌱 **Exploring:** System Design · AWS · Microservices patterns
 - 💬 **Ask me about:** Java, Spring Boot, React, MySQL, API design
-- 📫 **Reach me:** ashwani.k.sharma2001@gmail.com
+- 📫 **Reach me:** [ashwani.k.sharma2001@gmail.com](mailto:ashwani.k.sharma2001@gmail.com)
 
 ---
 
@@ -43,64 +43,56 @@ I'm a **Full Stack Developer** who enjoys owning features end-to-end — from de
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**Pixel-Mart**](https://github.com/ashwani-labs/Pixel-Mart) | Production-grade e-commerce platform with microservices architecture | `Spring Boot` `React` `Microservices` |
-| [**Trackify SaaS**](https://github.com/ashwani-labs/Trackify-Saas-Platform) | SaaS platform for tracking and managing workflows | `Spring Boot` `React` |
-| [**Hotel Management MS**](https://github.com/ashwani-labs/Microservice_With-Eureka-Server-Hotel-Management) | Microservices hotel system with Eureka, API Gateway & service discovery | `Spring Boot` `Eureka` `Gateway` |
-| [**Employee Feedback**](https://github.com/ashwani-labs/Employee-Feedback-Project-Java-Spring-boot) | REST API system to collect, manage & analyze employee feedback | `Java` `Spring Boot` `MySQL` |
+| [**Trackify SaaS**](https://github.com/ashwani-labs/Trackify-Saas-Platform) | Multi-tenant SaaS for project & issue management with JWT auth and scalable microservices | `Spring Boot` `JWT` `Microservices` |
+| [**Pixel-Mart**](https://github.com/ashwani-labs/Pixel-Mart) | Production-grade e-commerce platform (Spring Boot microservices + React) | `Spring Boot` `React` `Microservices` |
+| [**Hotel Management MS**](https://github.com/ashwani-labs/Microservice_With-Eureka-Server-Hotel-Management) | Hotel system with Eureka discovery, API Gateway & inter-service REST | `Spring Boot` `Eureka` `Gateway` |
+| [**Project Management**](https://github.com/ashwani-labs/spring-security-project-management) | Secure project management with authentication, authorization & RBAC | `Spring Security` `JWT` |
+| [**Employee Feedback**](https://github.com/ashwani-labs/Employee-Feedback-Project-Java-Spring-boot) | REST APIs to collect, manage & analyze employee feedback | `Java` `Spring Boot` `MySQL` |
 | [**Log Monitor**](https://github.com/ashwani-labs/Realtime-log-Monitor-System) | Real-time log monitoring for debugging & system health | `JavaScript` `Node.js` |
-| [**Project Management**](https://github.com/ashwani-labs/spring-security-project-management) | Secure project management app with role-based access control | `Spring Security` `JWT` |
 
 ---
 
 ## 🛠 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Backend**
-<br/><br/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-4A90D9?style=flat-square)
-
-**Frontend**
-<br/><br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Database & DevOps**
-<br/><br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<a href="https://github.com/ashwani-labs?achievement=yolo&tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Achievement"/>
+<div align="center">
+
+<a href="https://github.com/ashwani-labs?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="84" alt="YOLO"/>
 </a>
-<a href="https://github.com/ashwani-labs?achievement=pull-shark&tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark Achievement"/>
+&nbsp;&nbsp;
+<a href="https://github.com/ashwani-labs?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="84" alt="Pull Shark"/>
 </a>
 
-*Earned: YOLO · Pull Shark — more badges on the way!*
+<br/><br/>
+
+| Badge | Status |
+| :---: | :--- |
+| **YOLO** | ✅ Earned — merged a PR without waiting for review |
+| **Pull Shark** | ✅ Earned — 4+ pull requests merged |
+| **Quickdraw** | 🎯 Next — close an issue/PR within 5 minutes |
+| **Pair Extraordinaire** | 🎯 Next — co-author a merged PR |
+| **Galaxy Brain** | 🎯 Later — get answers accepted in Discussions |
+
+</div>
 
 ---
 
